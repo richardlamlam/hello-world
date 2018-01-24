@@ -1,6 +1,12 @@
 <html>
+<head>
+<title>Creating a world class program.</title>
+</head>
 <body>
-Creating a world class program.
+<ul>
+<li>flashlight</li>
+<li>matches</li>
+<li>first-aid</li>
 
 </body>
 </html>
